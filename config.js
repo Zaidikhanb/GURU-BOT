@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['966534392612', 'ZAIDI', true],
-  ['923157652451, 'DANI', true], 
+  ['14074359937, 'King🐅', true], 
   [''] 
 ] //Number of owners
 
@@ -54,7 +54,7 @@ global.botname = 'ᏰᏗᎴᏗᏁᏗ    ᏰᎧᏖ●﹏●'
 global.premium = 'true'
 global.packname = 'ᏦᎥᏁᎶ👑' 
 global.author = '@zaidi' 
-global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
+global.menuvid = 'https://telegra.ph/file/d4770521df3bb77cc707b.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
